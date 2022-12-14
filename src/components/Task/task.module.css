@@ -50,3 +50,7 @@ p.textCompleted {
     color: var(--gay-300);
     cursor: pointer;
 }
+
+.deleteButton :hover {
+    color: var(--danger);
+}

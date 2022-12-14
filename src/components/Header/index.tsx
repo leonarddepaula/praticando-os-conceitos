@@ -34,7 +34,7 @@ export function Header({ onAddTask }: Props) {
             value={title}
         />
         <button>
-            Criar
+           <p>Criar</p> 
             <AiOutlinePlusCircle size={20} />
         </button>
       </form>

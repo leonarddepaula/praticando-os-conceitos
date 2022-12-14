@@ -47,3 +47,9 @@
     font-size: 0.875rem;
     cursor: pointer;
 }
+
+.newTaskForm button :hover {
+    color: var(--blue);
+    
+    
+}
